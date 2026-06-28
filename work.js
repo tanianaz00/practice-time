@@ -609,7 +609,7 @@ promise
   .catch((error) => {
     console.log("error");
   });
-  
+
 // let para = document.getElementById("#para");
 // // para.addEventListener("click", (  ) => {
 //   para.textContent = "my name is tania";
